@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // تحقق اسم المستخدم وكلمة المرور
-    if (username === "admin" && password === "12345") {
+    if (username === "adham" && password === "12345") {
       // ناجح
       errorContainer.style.color = "green";
       errorContainer.textContent = "تم تسجيل الدخول بنجاح، جاري التحويل...";
